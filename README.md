@@ -21,8 +21,8 @@ Here are some of my standout projects:
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=blitzwolfz&include_all_commits=true&count_private=true&show_icons=true&count_private=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blitzwolfz&layout=compact&langs_count=8&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=blitzwolfz&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blitzwolfz&layout=compact&langs_count=8&theme=radical&hide=html,css,javascript" />
 </div>
 
 ## 💻 My Tech Stack
