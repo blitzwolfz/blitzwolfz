@@ -21,7 +21,7 @@ Here are some of my standout projects:
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=blitzwolfz&include_all_commits=true&show_icons=true&hide=stars,issues&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=blitzwolfz&include_all_commits=true&count_private=true&show_icons=true&count_private=true&theme=radical" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blitzwolfz&layout=compact&langs_count=8&theme=radical" />
 </div>
 
@@ -39,7 +39,7 @@ Here’s what I’m working with:
 
 ## 📊 My GitHub Stats
 
-![blitzwolfz's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=blitzwolfz&theme=radical&hide_border=true)
+![blitzwolfz's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=blitzwolfz&theme=radical&hide_border=true)
 
 ## ✨ Fun Stuff
 
@@ -50,4 +50,3 @@ Here’s what I’m working with:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=blitzwolfz&color=brightgreen" alt="visitor badge"/>
 </div>
-
