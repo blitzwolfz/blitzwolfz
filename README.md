@@ -6,6 +6,12 @@ Hi! I'm **Sammy Qureshi** (aka `blitzwolfz`), a passionate system developer with
 - 🚀 Creator of the **Red Programming Language**.
 - 🎮 Developer of **Meme Royale**, an exciting project that ran a Meme-Based Battle Tournament.
 
+  ## ✨ Fun Stuff
+
+- 🔗 [Check out my website](https://samq.ca)
+- 🌟 [GitHub Gists](https://gist.github.com/blitzwolfz)
+- 📫 [Email Me](mailto:saminm.qureshi@gmail.com)
+
 ## 🚀 Check Out My Projects
 
 Here are some of my standout projects:
@@ -40,12 +46,6 @@ Here’s what I’m working with:
 ## 📊 My GitHub Stats
 
 ![blitzwolfz's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=blitzwolfz&theme=radical&hide_border=true)
-
-## ✨ Fun Stuff
-
-- 🔗 [Check out my website](https://samq.ca)
-- 🌟 [GitHub Gists](https://gist.github.com/blitzwolfz)
-- 📫 [Email Me](mailto:saminm.qureshi@gmail.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=blitzwolfz&color=brightgreen" alt="visitor badge"/>
