@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi! I'm **Sammy Qureshi** (aka `blitzwolfz`), a passionate system developer with a deep interest in creating efficient and scalable solutions. I love working with backend systems and diving deep into programming languages.
+Hi! I'm **Sam Qureshi** (aka `blitzwolfz`), a passionate system developer with a deep interest in creating efficient and scalable solutions. I love working with backend systems and diving deep into programming languages.
 
 - 🧑‍💻 Working on modern system tools and a programming language of my own.
 - 🚀 Creator of the **Red Programming Language**.
