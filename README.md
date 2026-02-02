@@ -2,8 +2,8 @@
 
 **Software Developer** building chess engines, iOS apps, and code intelligence platforms.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-0a84ff?style=for-the-badge&labelColor=0a0a0a&logo=google-chrome&logoColor=white)](https://saminqureshi.dev)
-[![Resume](https://img.shields.io/badge/RESUME-PDF-30d158?style=for-the-badge&labelColor=0a0a0a&logo=adobe-acrobat-reader&logoColor=white)](./Sam_Qureshi.pdf)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-0a84ff?style=for-the-badge&labelColor=0a0a0a&logo=google-chrome&logoColor=white)](https://saminq.com)
+[![Resume](https://img.shields.io/badge/RESUME-PDF-30d158?style=for-the-badge&labelColor=0a0a0a&logo=adobe-acrobat-reader&logoColor=white)](https://saminq.com/Sam_Qureshi.pdf)
 [![GitHub](https://img.shields.io/badge/GITHUB-blitzwolfz-FFD700?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=white)](https://github.com/blitzwolfz)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-ff453a?style=for-the-badge&labelColor=0a0a0a&logo=linkedin&logoColor=white)](https://linkedin.com/in/saminqureshi)
 
